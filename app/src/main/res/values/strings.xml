@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="lanza_notificacion">Lanza Notificación</string>
+    <string name="tv_recibir_notificaciones">recibir Notificaciones</string>
+    <string name="avenger_deadpool">Soy Deadpool, da un toke a IronMan</string>
+    <string name="avenger_ironman">Soy Ironman, da un toke a Deadpool</string>
+</resources>
